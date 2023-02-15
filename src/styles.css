@@ -1,0 +1,87 @@
+.container {
+  margin: auto 30px;
+}
+.tempTodayFDegree {
+  font-size: 150px;
+  font-style: italic;
+}
+.tempTodayCDegree {
+  font-size: 50px;
+  font-style: italic;
+}
+h1 {
+  margin-bottom: 0px;
+}
+h2 {
+  font-style: italic;
+}
+.col-1 {
+  text-align: center;
+}
+.col-2 {
+  margin: auto 25px auto 25px;
+  width: 75px;
+  padding: 0px;
+  text-align: center;
+}
+
+.TodayIcon {
+  text-align: right;
+  margin-right: 25%;
+  padding-right: 10%;
+  position: fixed;
+  font-size: 200px;
+  top: 15%;
+}
+
+.todayDate {
+  text-align: right;
+  float: right;
+  position: fixed;
+  margin-right: 25px;
+  top: 600px;
+  right: 100px;
+  font-style: italic;
+}
+
+.height {
+  height: 100vh;
+}
+
+.searchBar {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #9ca3af;
+  right: 17px;
+  position: relative;
+  border: 10px;
+  border-top-width: 2px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  width: 80%;
+}
+input {
+  width: 80%;
+}
+
+.left-pan {
+  padding-left: 7px;
+}
+
+.left-pan i {
+  padding-left: 10px;
+}
+
+.search {
+  height: 55px;
+  text-indent: 33px;
+  border-radius: 10px;
+}
+
+.search:focus {
+  box-shadow: none;
+  border: none;
+}
