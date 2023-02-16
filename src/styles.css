@@ -85,3 +85,8 @@ input {
   box-shadow: none;
   border: none;
 }
+
+p {
+  margin-top: 20px;
+  margin-left: 20px;
+}
